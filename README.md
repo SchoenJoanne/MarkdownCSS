@@ -3,7 +3,7 @@
 
 [演示地址](http://www.asenshi.com/markdowncssexample.html)
 ## 代码来源
-此样式代码来源于[yrgoldteeth](https://github.com/yrgoldteeth/darkdowncss),在此基础上进行修改。
+此样式代码来源于[Kevin Burke](https://bitbucket.org/kevinburke/markdowncss),在此基础上进行修改。
 ## 修改内容
 1. 修改更适合中文的字体。
  * 字体优先顺序如下："Microsoft YaHei", "微软雅黑","华文细黑",Helvetica, Tahoma, Arial, STXihei,  SimSun,"宋体", Heiti, "黑体", sans-serif;
