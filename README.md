@@ -11,4 +11,4 @@
 ## 怎样使用
 在Markdown文件的开头加上这样一段代码：
 
-    <link href="https://github.com/asenshi/MarkdownCSS/raw/master/markdowncss.css" rel="stylesheet"></link> 
+`<link href="https://github.com/asenshi/MarkdownCSS/raw/master/markdowncss.css" rel="stylesheet"></link>` 
